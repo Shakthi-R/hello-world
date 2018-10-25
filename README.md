@@ -1,2 +1,4 @@
 # hello-world
-A 'hello world' repository
+Hello everyone 
+I come in peace.
+Or do I.
